@@ -1,0 +1,21 @@
+.main{
+    margin: auto;
+    text-align: center;
+    border: 5px solid teal;
+    width: 30%;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.evencolor{
+    color: red;
+}
+.btn1{
+    color:aqua;
+    background-color: black;
+    padding: 10px;
+}
+.btn2{
+    color:orange;
+    background-color: black;
+    padding: 10px;
+}
