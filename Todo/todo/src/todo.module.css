@@ -1,0 +1,23 @@
+.checkboxstyle{
+    display: flex;
+    gap: 20px;
+}
+.striked{
+    text-decoration: line-through;
+    color: red;
+}
+.nothing{
+    color: rgba(14, 121, 154, 0.893);
+}
+.btn{
+    color: rgb(235, 100, 22);
+    background-color: black;
+    padding: 5px;
+    border-radius: 40%;
+}
+.input{
+    width: 450px;
+    padding: 10px;
+    background-color: rgb(25, 3, 4);
+    color: rgb(44, 188, 250);
+}

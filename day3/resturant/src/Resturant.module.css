@@ -1,0 +1,28 @@
+.parent{
+    
+    border: 1px solid blueviolet;
+    display: grid;
+    gap: 30px;
+    
+    grid-template-columns: repeat(2,1fr);
+    
+}
+.img{
+    width:50%;
+}
+.restname{
+    color: blue;
+}
+.h2{
+    color: aquamarine;
+}
+.color{
+    background-color:green;
+    height: 25px;
+    padding: 5px;
+}
+.not{
+    background-color:yellow;
+    height: 25px;
+    padding: 5px;
+}
