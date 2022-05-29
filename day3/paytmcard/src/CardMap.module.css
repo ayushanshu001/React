@@ -1,0 +1,54 @@
+p {
+    margin: 0;
+  }
+  body {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+  .container {
+    height: auto;
+    width: 650px;
+    margin: 20px;
+    box-sizing: border-box;
+    padding: 35px;
+  }
+  
+  .date {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .date p {
+    margin: 0;
+    font-size: 21px;
+    margin-top: 10px;
+  }
+  .logoimg {
+    height: 100%;
+  }
+
+
+
+.devices {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .devices p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .heading {
+    font-size: 20px;
+  }
+  .label {
+    background-color: black;
+    color: white;
+    width: 120px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+  }
