@@ -1,0 +1,53 @@
+.addValue {
+    height: 50px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .addValue > input,
+  .addValue > button {
+    height: 30px;
+    text-indent: 14px;
+    font-size: 15px;
+  }
+  .timerCon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .timerCon > h1 {
+    text-align: center;
+    margin: auto;
+  }
+  
+  .timerCon button {
+    height: 35px;
+    width: 160px;
+    margin-top: 10px;
+  }
+  .timer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  .timer h1 {
+    margin: 0;
+  }
+  .buttonsForTimerCon {
+    display: flex;
+    gap: 20px;
+  }
+  .buttonsForTimerCon > button {
+    width: 160px;
+    height: 35px;
+    background-color: rgb(70, 73, 247);
+    border: 0;
+    border-radius: 1000px;
+  
+    color: white;
+    /* color: rgb(234, 85, 85); */
+    font-size: 20px;
+  }
